@@ -28,4 +28,4 @@ def computer_playing():
 
             time.sleep(1)
 
-computer_playing()
+# computer_playing()
